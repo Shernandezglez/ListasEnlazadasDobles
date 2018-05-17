@@ -1,0 +1,10 @@
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ListasDoblementeEnlazadas\ListasDoblementeEnlazadas\bin\Debug\ListasDoblementeEnlazadas.exe.config
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ListasDoblementeEnlazadas\ListasDoblementeEnlazadas\bin\Debug\ListasDoblementeEnlazadas.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ListasDoblementeEnlazadas\ListasDoblementeEnlazadas\bin\Debug\ListasDoblementeEnlazadas.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ListasDoblementeEnlazadas\ListasDoblementeEnlazadas\obj\Debug\ListasDoblementeEnlazadas.csprojAssemblyReference.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ListasDoblementeEnlazadas\ListasDoblementeEnlazadas\obj\Debug\ListasDoblementeEnlazadas.Form1.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ListasDoblementeEnlazadas\ListasDoblementeEnlazadas\obj\Debug\ListasDoblementeEnlazadas.Properties.Resources.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ListasDoblementeEnlazadas\ListasDoblementeEnlazadas\obj\Debug\ListasDoblementeEnlazadas.csproj.GenerateResource.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ListasDoblementeEnlazadas\ListasDoblementeEnlazadas\obj\Debug\ListasDoblementeEnlazadas.csproj.CoreCompileInputs.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ListasDoblementeEnlazadas\ListasDoblementeEnlazadas\obj\Debug\ListasDoblementeEnlazadas.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ListasDoblementeEnlazadas\ListasDoblementeEnlazadas\obj\Debug\ListasDoblementeEnlazadas.pdb

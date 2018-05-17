@@ -57,6 +57,7 @@
             this.btnInvertir.TabIndex = 29;
             this.btnInvertir.Text = "InvertirLista";
             this.btnInvertir.UseVisualStyleBackColor = true;
+            this.btnInvertir.Click += new System.EventHandler(this.btnInvertir_Click);
             // 
             // btnEliminarUltimo
             // 
@@ -66,6 +67,7 @@
             this.btnEliminarUltimo.TabIndex = 28;
             this.btnEliminarUltimo.Text = "EliminarUltimo";
             this.btnEliminarUltimo.UseVisualStyleBackColor = true;
+            this.btnEliminarUltimo.Click += new System.EventHandler(this.btnEliminarUltimo_Click);
             // 
             // btnEliminarPrimero
             // 
@@ -75,6 +77,7 @@
             this.btnEliminarPrimero.TabIndex = 27;
             this.btnEliminarPrimero.Text = "EliminarPrimero";
             this.btnEliminarPrimero.UseVisualStyleBackColor = true;
+            this.btnEliminarPrimero.Click += new System.EventHandler(this.btnEliminarPrimero_Click);
             // 
             // btnReporteInverso
             // 
@@ -84,6 +87,7 @@
             this.btnReporteInverso.TabIndex = 26;
             this.btnReporteInverso.Text = "ReporteInverso";
             this.btnReporteInverso.UseVisualStyleBackColor = true;
+            this.btnReporteInverso.Click += new System.EventHandler(this.btnReporteInverso_Click);
             // 
             // btnReporte
             // 
@@ -93,6 +97,7 @@
             this.btnReporte.TabIndex = 25;
             this.btnReporte.Text = "Reporte";
             this.btnReporte.UseVisualStyleBackColor = true;
+            this.btnReporte.Click += new System.EventHandler(this.btnReporte_Click);
             // 
             // txtVehiculo
             // 
@@ -165,6 +170,7 @@
             this.btnAgregar.TabIndex = 16;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
+            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // label1
             // 
@@ -199,6 +205,7 @@
             this.btnEliminar.TabIndex = 32;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // btnBuscar
             // 
@@ -208,6 +215,7 @@
             this.btnBuscar.TabIndex = 33;
             this.btnBuscar.Text = "Buscar";
             this.btnBuscar.UseVisualStyleBackColor = true;
+            this.btnBuscar.Click += new System.EventHandler(this.btnBuscar_Click);
             // 
             // Form1
             // 
