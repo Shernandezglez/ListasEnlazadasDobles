@@ -8,14 +8,34 @@ namespace ListasDoblementeEnlazadas
 {
     class ClaseBase
     {
-        private int _dato;
+
+        private string _producto;
+        private string _alumno;
+        private string _vehiculo;
+        private int _contacto;
+        private int _codigo;
         private ClaseBase _siguiente;
         private ClaseBase _anterior;
 
 
+
+
+        public ClaseBase(string p, string al, string vei, int cont, int cod)
+        {
+            _producto = p;
+            _alumno = al;
+            _vehiculo = vei;
+            _contacto = cont;
+            _codigo = cod;
+        }
+
+        public override string ToString()
+        {
+            return "Producto: " + _producto + " | " + " Alumno: " + _alumno + " | " + " Vehiculo: " + _vehiculo + " | " + " Contacto: " + _contacto;
+        }
         public ClaseBase Siguiente
         {
-            get { return _siguiente;}
+            get { return _siguiente; }
             set { _siguiente = value; }
         }
 
@@ -25,20 +45,35 @@ namespace ListasDoblementeEnlazadas
             set { _anterior = value; }
         }
 
-        public int Dato
+        public string Producto
         {
-            get { return _dato; }
-            set { _dato = value; }
+            get { return _producto; }
+            set { _producto = value; }
         }
 
-        public ClaseBase(int dato)
+        public string Alumno
         {
-            _dato = dato;
+            get { return _alumno; }
+            set { _alumno = value; }
         }
 
-        public override string ToString()
+        public string Vehiculo
         {
-            return "Dato :" + _dato;
+            get { return _vehiculo; }
+            set { _vehiculo = value; }
         }
+
+        public int Contacto
+        {
+            get { return _contacto; }
+            set { _contacto = value; }
+        }
+
+        public int Codigo
+        {
+            get { return _codigo; }
+            set { _codigo = value; }
+        }
+      }
+
     }
-}
